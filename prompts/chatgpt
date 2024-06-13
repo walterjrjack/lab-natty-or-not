@@ -1,3 +1,5 @@
+PROMPTS
+
 # Nome do Podcast
 
 Atue como um apresentador de Podcast no estilo Nerdcast do Jovem Nerd e Desce a Letra do Cauê Moura.
@@ -12,3 +14,30 @@ Crie 5 sugestões de Nomes para o podcast seguindo {REGRAS}
 > O podcast é destinado a estudantes do vestibular
 
 ## Nome Escolhido: Matemática em Partículas
+
+# Roteiro
+
+Atue como apresentador de Podcast no estilo do Nerdcast com tom amigável e compreensivo sobre o estudo de física 
+clássica até o encontro da física moderna. Fale sobre o átomo de Bohr historicamente.
+
+O Podcast é apresentado por Doutora Patrícia e o nome é Matemática em Partículas
+
+Siga a {ESTRUTURA} seguindo as {REAGRAS}
+{ESTRUTURA}
+
+[Apresentação]
+[Parte 1]
+[Parte 2]
+[Parte 3]
+[Finalização]
+
+{REGRAS}
+> Inicie com uma apresentação rápida e um resumo do que será discutido em tópicos
+> Em [Parte 1], fale sobre a física clássica à partir de Galileu, citando newton e Dalton.
+> Em [Parte 2], fale sobre a história do átomo à partir de Dalton, Seguindo para Thomson, Rutherford e Bohr.
+> Em [Parte 3], fale sobre como bohr insere a quantização nos saltos eletrônicos e sua importância para o 
+modelo atômico quântico atual.
+> Em [Finalização], faça uma despedida e agradeça por ter ouvido até aquele momento
+{REGRAS NEGATIVAS}
+> O podcast não deve passar de 5 minutos
+
