@@ -11,7 +11,7 @@
 - Voz e apresentação **[ElevenLabs](https://www.elevenlabs.io)**  A.I. generativa;
 - Edição **[Capcut](https://www.capcut.com/pt-br/)**;
 - Capa do podcast **[Microsoft Copilot](https://www.microsoft.com/pt-br/microsoft-copilot)**  A.I. generativa;
-- 
+
 ## 🧐 Processo de Criação
 Por ser professor de física, conhecço bem a história narrada. Fiz os prompts de roteiro e fiz pequenas correções para o assunto.
 
